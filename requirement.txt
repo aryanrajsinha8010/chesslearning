@@ -1,0 +1,5 @@
+Flask>=2.0.0  # Or a more specific version, like Flask==2.3.2
+Flask-SQLAlchemy>=2.5.0 # Or a more specific version
+psycopg2>=2.9.0 # or psycopg2-binary, and/or a more specific version
+email_validator>=1.1.0 # Or a more specific version
+gunicorn>=20.0.0 # Or a more specific version
